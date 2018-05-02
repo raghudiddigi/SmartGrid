@@ -7,3 +7,7 @@ multi_agent_version2.m : This is the comparison 'Non-ADL' model.
 
 Other .m files : Auxillary codes used by the above codes.
 
+Running the codes :
+
+Step 1: Run the code "data_processing.m" first for initializing poisson means globally for both 3 agents and 5 agents.
+Step 2: Run the desired model.
